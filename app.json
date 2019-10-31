@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "React Native Firebase Login Template",
+    "slug": "react-native-firebase-login-template-typescript",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Firebase Login Template for React Native apps.",
+    "githubUrl": "https://github.com/venits/react-native-firebase-login-screen"
+  }
+}
